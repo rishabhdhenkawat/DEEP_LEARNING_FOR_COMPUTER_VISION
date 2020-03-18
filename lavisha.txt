@@ -1,0 +1,7 @@
+ I am Lavisha Bhambri.I am a 1st year student pursuing BTech in Computer Science and Engineering in NIT Hamirpur, Himachal Pradesh.
+ I live in Faridabad, Haryana. 
+ Presently, I work as a Volunteer in Robotics Society NITH, where I learned about varius technologies.
+ Currently, I am working on projects like:
+ HOME AUTOMATION which automates various home applicances like light, door lock, fans,etc. with minimal human efforts. 
+ LINE FOLLOWER BOT which detects obstacles around it and tries to avoid it.
+ My hobbies include listening music, painting, sketching, etc.
