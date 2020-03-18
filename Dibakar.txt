@@ -1,0 +1,8 @@
+I am a pragmatic student in the UG program at the National Institute of Technology Hamirpur, INDIA(http://nith.ac.in/) in India heading in Mechanical Engineering scored cgpi - 9.6.
+
+A hard headed student with determination to put all his aspirations for engineering into my career.Using hard-earned knowledge of understanding both progarmmimng ,
+design and mechanics of engineering into capable engineer eager to jump back into the workforce.Machine Learning practitioner .Following my motto of "Dream it! Build it!".
+Consatntly improves myself both as an individual and as an engineer.
+
+My past projects includes : Ai-Bot of capable of avoiding obstacles , A hand gestured controled bot , Line Follower, Robo Soccer ,
+Recommender System and Social Media sentiments analysis using twitter dataset.
