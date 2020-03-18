@@ -1,0 +1,6 @@
+I am Navdeep Singh Rathore. I am programming enthusiast and have experience in using python and c++. 
+
+I have made a project: Blind Navigation using Computer Vision and muscle stimulation:
+    Technology used: Raspberry Pi, OpenCV, Socket programming
+    Domain: Machine Learning, Image processing
+
