@@ -1,0 +1,13 @@
+hello everyone.
+myself baibhav,
+        I am a student of NITH pursuing Electronics and Communication branch.
+I loves to read novels and listen music and the most important i am curious in learning something new.
+I am a hardworking , punctual and a simple student; always available to help anyone who needs.
+Presently, i work as a volunteer in ROBOTICS SOCIETY NITH. I learned a lot from there.
+The various computer languages that i knew are: C,C++, Python.
+My currrent projects are:
+    1: Home automation
+    2: Line follower
+    3: Micromouse
+    4: Hoverboat
+        
