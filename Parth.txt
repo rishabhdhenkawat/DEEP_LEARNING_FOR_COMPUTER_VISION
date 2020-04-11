@@ -1,0 +1,4 @@
+I am Parth saini, a first year student of nit hamirpur and i have interest in programming .
+I know languages like c,c++ and python.
+Project - Programming of a humanoid which includes face recognition ,voice recognition and tensorflow based chatbot.
+Domain: Machine learning and Image processing

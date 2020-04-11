@@ -1,0 +1,9 @@
+I am Navdeep Singh Rathore. I am programming enthusiast and have experience in using python and c++. I am currently a sophomore in computer science department.
+
+I have made a project Blind Navigation using Computer Vision and muscle stimulation:
+Technology used: Raspberry Pi, OpenCV, Socket programming
+Domain: Machine Learning, Image processing
+
+I have also made other basic projects like a bubble sort visualiser(using tkinter python) and a ticket management system(using c++).
+
+Currently I am also working on a project related to Swarm Robotics.

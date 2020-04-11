@@ -1,0 +1,10 @@
+I am Hardik Gupta and I'm currently a student at NIT Hamirpur studying Electronics and Communication Engineering.
+
+My interests are digital art and photography.
+
+I always try to give my best to the task at hand and try to work harder.
+
+I am also a volunteer at the Robotics society of NIT Hamirpur.
+
+I have worked on a Quadruped Bot which is a 4 legged bot that uses 12 servos for it's movement. It has a 3D 
+printed anatomy. It has object detection, motion tracking and face recognition capabilities. 
