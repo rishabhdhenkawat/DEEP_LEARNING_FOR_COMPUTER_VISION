@@ -1,9 +1,0 @@
-In this, I have observed, that firstly we created a pseudo data and then we have tried to minimise the loss by iterating the same data through the classifier until the desired number of epochs has been met.  
-
-Also after every iteration, we kept on updating weight matrix.
-
-Now as our classifier is trained, now we will evaluate it, a classification report is printed on the terminal of our machine. 
-
-Now, to make predictions using our weight matrix W, we have used predict method on testX and W.
-
-And finally, we are plotting graphs of our testing data and loss over time using matplotlib.

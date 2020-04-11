@@ -1,4 +1,0 @@
-I'm a student of NIT HAMIRPUR, Working under the SPEC society.
-I have worked on the AUGMENTED REALITY PROJECTS under the guidance of seniors and also build a gripper bot using arduino.
-I have keen interest in concepts like IOT and deep learning.
-languages known are c and python 3. Currently workin on project on computer vision.

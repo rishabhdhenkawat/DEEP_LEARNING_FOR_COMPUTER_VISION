@@ -1,8 +1,0 @@
-* computer vision focusses on replicating parts of complexity of human vision syste.
-* It is used to identify and process objects in images and videos in the same way that humans do.
-* Lots of images are needed to train a model of computer  vision.
-* Computers usually read color as a series of 3 values - RGB
-* The primary deep learning library used is Keras.
-* TensorFlow and Theano are libraries for defining abstract, general-purpose computation graphs.
-* Keras, on the other hand, is a deep learning framework that provides a well-designed API to facilitate building deep neural networks with ease.
-* we onlu use OpenCV to facilitate basic image processing operations sucha as loading an image from disk, displaying it to ojur screen. 
